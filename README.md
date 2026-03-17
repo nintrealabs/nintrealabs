@@ -1,29 +1,70 @@
-# Hello..!!, Welcome to Nintrealabs
+<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&avatar_mode=radar&theme=defualt&data_border_style=frame" style="width:100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=d42932&size=24&width=500&lines=Hello+!!+We+Are+from+Nintrea;Our+Location+Is+from+Cambodia;Nice+to+meet+you...)](https://git.io/typing-svg)
+<div align="center" style="margin-top: 20px;">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nintreapage) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/Ahphnek3) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/sophatleat) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/sophat)
+<img src="https://stats.pphat.top/badge/visitors?username=pphatdev&theme=ocean" alt="PPhat Profile Visitors"/>
+<img src="https://stats.pphat.top/badge/repositories?username=pphatdev&theme=neon" alt="PPhat Profile Repositories"/>
+<img src="https://stats.pphat.top/badge/languages?username=pphatdev&theme=inferno" alt="PPhat Profile Languages"/>
+<img src="https://stats.pphat.top/badge/followers?username=pphatdev&theme=matrix" alt="PPhat Profile Followers"/>
+<img src="https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar" alt="PPhat Profile Total Stars"/>
+<img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/>
+
+<br>
+<br>
+
+<img src="https://stats.pphat.top/icons/typescript?color=green" alt="icon of typescript"/>
+<img src="https://stats.pphat.top/icons/javascript?color=green" alt="icon of javascript"/>
+<img src="https://stats.pphat.top/icons/nodedotjs?color=green" alt="icon of nodedotjs"/>
+<img src="https://stats.pphat.top/icons/nextjs?color=green" alt="icon of nextjs"/>
+<img src="https://stats.pphat.top/icons/shadcnui?color=green" alt="icon of shadcnui"/>
+<img src="https://stats.pphat.top/icons/nuxt?color=green" alt="icon of nuxt"/>
+<img src="https://stats.pphat.top/icons/postgresql?color=green" alt="icon of postgresql"/>
+<img src="https://stats.pphat.top/icons/drizzle?color=green" alt="icon of drizzle"/>
+<img src="https://stats.pphat.top/icons/tailwindcss?color=green" alt="icon of tailwindcss"/>
+<img src="https://stats.pphat.top/icons/laravel?color=green" alt="icon of laravel"/>
+<img src="https://stats.pphat.top/icons/csharp?color=green&foreground=white" alt="icon of csharp"/>
 
 
-## 🍀 Sponsors and Supporters
+<img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px" alt="GitHub Stats"/>
 
-[![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/nintrea) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://app.gitbook.com/@sophat) 
+</div>
 
-and **you**... [buy me a coffee](https://bmc.xyz/sophat) if you love what I do!
+# Hi, Welcome back <img src="https://github.com/user-attachments/assets/4eb41909-6368-46f2-869b-4281fc134615" width="25" alt="wave"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" height="25" alt="rocket"/> 
+
+*កម្មករសរសេរកូដ* 😂 *(Vibe Coder • Vibe Designer)*
+
+I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *Vibe (Coder/Designer)* with a huge love for Node.js, Next.js, Nuxt.js, PostgreSQL, REST API and Data Visualization.
+
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
+- 🧑‍💻 Passionate about coding and open source projects
+- 🎨 Lover of design and user experience
+- 💖 Explorer of new technologies and frameworks
+- 💻 Visit my [Portfolio](https://pphat.me) for more details about me.
+
+<div align="left">
+
+<!--START_SECTION:daily-->
+```diff
+█████████░░░░░░░░░░░░░░░░ ⁝ 35.52% • TypeScript
+███████░░░░░░░░░░░░░░░░░░ ⁝ 29.8% • HTML
+███████░░░░░░░░░░░░░░░░░░ ⁝ 29.78% • MDX
+█░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 3.74% • Markdown
+░░░░░░░░░░░░░░░░░░░░░░░░░ ⁝ 1.15% • JSON
+```
+<!--END_SECTION:daily-->
+
+</div>
 
 ---
 
+<br>
 
+<div align="center">
 
+If you interesting My GitHub Stats Graph [Check My Project](https://github.com/pphatdev/github-stats) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" height="20" alt="rocket"/>
 
-## GitHub Awards <br/>
+Or Using github [:octocat: Actions](https://github.com/marketplace/actions/waka-daily-stats)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=nintrealabs)
+</div>
 
-
-
-## Activities <br/>
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintrealabs)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintrealabs&show_icons=true&theme=radical)
-
-
+---
