@@ -1,13 +1,13 @@
-<img align='middle' src="https://stats.pphat.top/stats?username=pphatdev&avatar_mode=radar&theme=defualt&data_border_style=frame" style="width:100%"/>
+<img align='middle' src="https://stats.pphat.top/stats?username=nintrealabs&avatar_mode=radar&theme=defualt&data_border_style=frame" style="width:100%"/>
 
 <div align="center" style="margin-top: 20px;">
 
-<img src="https://stats.pphat.top/badge/visitors?username=pphatdev&theme=ocean" alt="PPhat Profile Visitors"/>
-<img src="https://stats.pphat.top/badge/repositories?username=pphatdev&theme=neon" alt="PPhat Profile Repositories"/>
-<img src="https://stats.pphat.top/badge/languages?username=pphatdev&theme=inferno" alt="PPhat Profile Languages"/>
-<img src="https://stats.pphat.top/badge/followers?username=pphatdev&theme=matrix" alt="PPhat Profile Followers"/>
-<img src="https://stats.pphat.top/badge/total-stars?username=pphatdev&theme=solar" alt="PPhat Profile Total Stars"/>
-<img src="https://stats.pphat.top/badge/total-contributors?username=pphatdev&theme=galaxy" alt="PPhat Profile Total Contributors"/>
+<img src="https://stats.pphat.top/badge/visitors?username=nintrealabs&theme=ocean" alt="PPhat Profile Visitors"/>
+<img src="https://stats.pphat.top/badge/repositories?username=nintrealabs&theme=neon" alt="PPhat Profile Repositories"/>
+<img src="https://stats.pphat.top/badge/languages?username=nintrealabs&theme=inferno" alt="PPhat Profile Languages"/>
+<img src="https://stats.pphat.top/badge/followers?username=nintrealabs&theme=matrix" alt="PPhat Profile Followers"/>
+<img src="https://stats.pphat.top/badge/total-stars?username=nintrealabs&theme=solar" alt="PPhat Profile Total Stars"/>
+<img src="https://stats.pphat.top/badge/total-contributors?username=nintrealabs&theme=galaxy" alt="PPhat Profile Total Contributors"/>
 
 <br>
 <br>
@@ -25,7 +25,7 @@
 <img src="https://stats.pphat.top/icons/csharp?color=green&foreground=white" alt="icon of csharp"/>
 
 
-<img align='middle' src="https://stats.pphat.top/graph?username=pphatdev&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px" alt="GitHub Stats"/>
+<img align='middle' src="https://stats.pphat.top/graph?username=nintrealabs&false&animate=pulse&size=small&show_title=false&show_total_contribution=false" width="700px" alt="GitHub Stats"/>
 
 </div>
 
@@ -61,7 +61,7 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 
 <div align="center">
 
-If you interesting My GitHub Stats Graph [Check My Project](https://github.com/pphatdev/github-stats) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" height="20" alt="rocket"/>
+If you interesting My GitHub Stats Graph [Check My Project](https://github.com/nintrealabs/github-stats) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" height="20" alt="rocket"/>
 
 Or Using github [:octocat: Actions](https://github.com/marketplace/actions/waka-daily-stats)
 
