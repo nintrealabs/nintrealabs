@@ -36,7 +36,7 @@ jobs:
 
       - name: Update README stats
         id: update_stats
-        uses: pphatdev/pphatdev@v1.0.4
+        uses: pphatdev/daily-waka-action@v1
         # uses: ./
         with:
           waka-token: ${{ secrets.WAKA_KEY }}
