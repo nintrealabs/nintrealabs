@@ -58,13 +58,4 @@ I am a Senior Front-End Developer at *TURBOTECH CO,.LTD* also as a Open Source *
 ---
 
 <br>
-
-<div align="center">
-
-If you interesting My GitHub Stats Graph [Check My Project](https://github.com/nintrealabs/github-stats) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" height="20" alt="rocket"/>
-
-Or Using github [:octocat: Actions](https://github.com/marketplace/actions/waka-daily-stats)
-
-</div>
-
 ---
